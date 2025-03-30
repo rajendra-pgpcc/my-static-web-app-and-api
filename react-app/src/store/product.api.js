@@ -18,6 +18,18 @@ const data = {
       description: 'Bag of 7 fresh McIntosh apples',
       quantity: 1,
     },
+    {
+      id: 40,
+      name: 'Oranges',
+      description: 'Bag of 6 fresh oranges',
+      quantity: 1,
+    },
+    {
+      id: 50,
+      name: 'Banana',
+      description: 'Bag of 12 tasty bananas',
+      quantity: 1,
+    },
   ],
 };
 
